@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### Hi every-one 👋
+- 🔭 I’m currently working on the earth.
+- 🌱 I’m currently learning the skill which is using to touch fish.
+
+<a href="#" style="display:inline">
+<img height="140px" style="Float:left;dispaly:inline" src="https://github-readme-stats.vercel.app/api?username=provenceee&hide_title=false&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=github_dark"/>
+
+</a>
